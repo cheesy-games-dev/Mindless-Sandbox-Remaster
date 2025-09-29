@@ -408,6 +408,13 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "unity-missing-scripts-finder": {
+      "version": "https://github.com/RimuruDev/Unity-MissingScriptsFinder.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1aa13bab2c204a79e212458ceeec7a7471f1c063"
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
